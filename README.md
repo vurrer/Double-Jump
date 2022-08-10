@@ -1,7 +1,7 @@
 # Double-Jump
 
 ## https://www.curseforge.com/minecraft/mc-mods/double-jump-enchantment
-###
+### https://modrinth.com/mod/double-jump
 
 [FORGE]
 
